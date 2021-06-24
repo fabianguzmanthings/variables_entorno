@@ -1,0 +1,13 @@
+environment=dev
+
+# Time zone
+TZ=America/Bogota
+
+# Mongo credentials
+MONGO_USERNAME=admin
+MONGO_PASSWORD=123456
+MONGO_EXT_PORT=27017
+
+# Emqx
+EMQX_DEFAULT_USER_PASSWORD=1212
+EMQX_DEFAULT_APPLICATION_SECRET=emqxsecrets
